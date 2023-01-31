@@ -1,0 +1,10 @@
+<html>
+<head>
+Welcome to my website
+</head>
+<body>
+<h1>
+Now hosted on Amazon S3!
+</h1>
+</body>
+</html>
